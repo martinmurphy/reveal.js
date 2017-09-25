@@ -1,6 +1,7 @@
 # PSK Data mode
 
-## Martin Murphy EI2HIB, 2017-08-28 
+## Martin Murphy EI2HIB
+### 2017-08-28 
 
 
 
@@ -26,9 +27,9 @@
 
 # Macros
 * you can type, most people use macros
-* <TX> CQ CQ CQ DE EI2HIB EI2HIB PSE K<RX>
+* &lt;TX&gt; CQ CQ CQ DE EI2HIB EI2HIB PSE K&lt;RX&gt;
 * lowercase is faster to send
-* <TX> cq cq cq de ei2hib ei2hib pse k<RX>
+* &lt;TX&gt; cq cq cq de ei2hib ei2hib pse k&lt;RX&gt;
 
 
 # Macros 2
@@ -37,9 +38,9 @@
   * MYCALL = EI2HIB
   * MYQTH = Tramore, Ireland
   * MYLOC = IO62kd
-* <TX> cq cq cq de <MYCALL> <MCALL> pse k<RX> <!-- .element: class="fragment"-->
-* <TX> <YOURCALL> de <MYCALL> <MCALL> kn<RX> <!-- .element: class="fragment"-->
-* <TX> <YOURCALL> rsq: <RSTOUT> <RSTOUT> name: <MYNAME> qth: <MYQTH> loc: <MYLOC><RX> <!-- .element: class="fragment"-->
+* &lt;TX&gt; cq cq cq de &lt;MYCALL&gt; &lt;MCALL&gt; pse k&lt;RX&gt; <!-- .element: class="fragment"-->
+* &lt;TX&gt; &lt;YOURCALL&gt; de &lt;MYCALL&gt; &lt;MCALL&gt; kn&lt;RX&gt; <!-- .element: class="fragment"-->
+* &lt;TX&gt; &lt;YOURCALL&gt; rsq: &lt;RSTOUT&gt; &lt;RSTOUT&gt; name: &lt;MYNAME&gt; qth: &lt;MYQTH&gt; loc: &lt;MYLOC&gt;&lt;RX&gt; <!-- .element: class="fragment"-->
 
 
 
@@ -58,4 +59,5 @@
 
 
 # Questions?
-## Martin Murphy EI2HIB, 2017-08-28 
+## Martin Murphy EI2HIB
+### 2017-08-28 
